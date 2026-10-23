@@ -1,0 +1,29 @@
+<data>
+    <lojas>
+        <loja>
+            <Id>001</Id>
+            <Nome>Continente</Nome>
+            <Localizacao>Amarante</Localizacao>
+        </loja>
+        <loja>
+            <Id>002</Id>
+            <Nome>Livraria Ze</Nome>
+            <Localizacao>Colegio S Goncalo</Localizacao>
+        </loja>
+        <loja>
+            <Id>003</Id>
+            <Nome>Worten</Nome>
+            <Localizacao>Marco de Canavezes</Localizacao>
+        </loja>
+        <loja>
+            <Id>004</Id>
+            <Nome>Loja1</Nome>
+            <Localizacao>Localiza1</Localizacao>
+        </loja>
+        <loja>
+            <Id>005</Id>
+            <Nome>Loja2</Nome>
+            <Localizacao>Localiza2</Localizacao>
+        </loja>
+    </lojas>
+</data>
